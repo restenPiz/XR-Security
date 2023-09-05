@@ -257,12 +257,14 @@
                                     <li><i class="ri-check-double-line"></i>Prevenção de Crimes</li>
                                     <li><i class="ri-check-double-line"></i>Resposta Rápida a Emergências</li>
                                 </ul></br>
-                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de
+                                    Pagamento</a>
                             </div>
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card mb-4 shadow-sm" style="border-radius:4rem;height:35rem; border-color: #ffc451">
+                        <div class="card mb-4 shadow-sm"
+                            style="border-radius:4rem;height:35rem; border-color: #ffc451">
                             <div class="card-body" style="margin-top:5rem">
                                 <h4 class="card-title pricing-card-title">Escolta de Pessoas e Bens</h4></br>
                                 <h1 class="card-title pricing-card-title">100.000MT<small
@@ -272,7 +274,8 @@
                                     <li><i class="ri-check-double-line"></i>Redução de Riscos</li>
                                     <li><i class="ri-check-double-line"></i>Profissionais Altamente Treinados</li>
                                 </ul></br>
-                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de
+                                    Pagamento</a>
                             </div>
                         </div>
                     </div>
@@ -287,7 +290,8 @@
                                     <li><i class="ri-check-double-line"></i>Gestão de Multidões</li>
                                     <li><i class="ri-check-double-line"></i>Resposta a Emergências</li>
                                 </ul></br>
-                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de
+                                    Pagamento</a>
                             </div>
                         </div>
                     </div>
@@ -297,6 +301,62 @@
         </section>
 
         {{-- Fim da section de precos --}}
+
+        {{-- Inicio da parte de questoes frequentes --}}
+
+        <section>
+            <div class="accordion accordion-flush" id="accordionFlushExample">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseOne" aria-expanded="false"
+                            aria-controls="flush-collapseOne">
+                            Accordion Item #1
+                        </button>
+                    </h2>
+                    <div id="flush-collapseOne" class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">Placeholder content for this accordion, which is intended to
+                            demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion
+                            body.</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseTwo" aria-expanded="false"
+                            aria-controls="flush-collapseTwo">
+                            Accordion Item #2
+                        </button>
+                    </h2>
+                    <div id="flush-collapseTwo" class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">Placeholder content for this accordion, which is intended to
+                            demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion
+                            body. Let's imagine this being filled with some actual content.</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseThree" aria-expanded="false"
+                            aria-controls="flush-collapseThree">
+                            Accordion Item #3
+                        </button>
+                    </h2>
+                    <div id="flush-collapseThree" class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">Placeholder content for this accordion, which is intended to
+                            demonstrate the <code>.accordion-flush</code> class. This is the third item's accordion
+                            body. Nothing more exciting happening here in terms of content, but just filling up the
+                            space to make it look, at least at first glance, a bit more representative of how this would
+                            look in a real-world application.</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        {{-- Fim da parte de questoes frequentes --}}
 
 
         <!-- ======= Contact Section ======= -->
