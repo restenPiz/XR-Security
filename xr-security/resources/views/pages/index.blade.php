@@ -251,13 +251,13 @@
                             <div class="card-header py-3" style="border-radius:0;">
                                 <h4 class="my-0 fw-normal">Escolta de Pessoas e Bens</h4>
                             </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title">$0<small
-                                        class="text-body-secondary fw-light">/mo</small></h1>
+                            <div class="card-body" style="margin-top:5rem">
+                                <h1 class="card-title pricing-card-title">$15<small
+                                        class="text-body-secondary fw-light">/mo</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>10 users included</li>
-                                    <li>2 GB of storage</li>
-                                    <li>Email support</li>
+                                    <li>20 users included</li>
+                                    <li>10 GB of storage</li>
+                                    <li>Priority email support</li>
                                     <li>Help center access</li>
                                 </ul>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
@@ -269,13 +269,13 @@
                             <div class="card-header py-3" style="border-radius:0; background-color: #ffc451; border-color: #ffc451">
                                 <h4 class="my-0 fw-normal">Patrimonial</h4>
                             </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title">$29<small
-                                        class="text-body-secondary fw-light">/mo</small></h1>
+                            <div class="card-body" style="margin-top:5rem">
+                                <h1 class="card-title pricing-card-title">$15<small
+                                        class="text-body-secondary fw-light">/mo</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>30 users included</li>
-                                    <li>15 GB of storage</li>
-                                    <li>Phone and email support</li>
+                                    <li>20 users included</li>
+                                    <li>10 GB of storage</li>
+                                    <li>Priority email support</li>
                                     <li>Help center access</li>
                                 </ul>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
@@ -287,9 +287,9 @@
                             <div class="card-header py-3" style="border-radius:0;">
                                 <h4 class="my-0 fw-normal">Eventos</h4>
                             </div>
-                            <div class="card-body">
+                            <div class="card-body" style="margin-top:5rem">
                                 <h1 class="card-title pricing-card-title">$15<small
-                                        class="text-body-secondary fw-light">/mo</small></h1>
+                                        class="text-body-secondary fw-light">/mo</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
                                     <li>20 users included</li>
                                     <li>10 GB of storage</li>
