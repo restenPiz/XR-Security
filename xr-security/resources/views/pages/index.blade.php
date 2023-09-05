@@ -159,32 +159,32 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Check our Services</p>
+          <h2>Serviços</h2>
+          <p>Confira nossos serviços</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Segurança Patrimonial:</a></h4>
+              <p>A segurança patrimonial é um dos principais serviços da XR Segurança. Envolve a proteção de propriedades, sejam residenciais ou comerciais. A equipe de segurança realiza patrulhas regulares, monitoramento de câmeras de segurança e responde a alarmes de intrusão. Eles garantem que sua propriedade seja um ambiente seguro 24/7, prevenindo roubos e danos. </p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Escolta de Pessoas e Bens</a></h4>
+              <p>A escolta de pessoas e bens é um serviço crítico oferecido pela XR Segurança. É especialmente valioso em situações de alto risco, como o transporte de bens valiosos ou a necessidade de proteção pessoal. A equipe de segurança acompanha e protege indivíduos ou cargas, garantindo que cheguem ao seu destino de forma segura e sem incidentes.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Segurança de Eventos</a></h4>
+              <p>A XR Segurança também é especializada em fornecer segurança para eventos públicos e privados. Isso inclui festas, feiras, conferências, concertos e outros eventos. A equipe de segurança trabalha para garantir que o evento ocorra de forma segura, gerenciar multidões, verificar ingressos e responder rapidamente a qualquer situação de emergência.</p>
             </div>
           </div>
 
@@ -198,9 +198,9 @@
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
+          <h3>Contacte-nos</h3>
+          <p> Nossa equipe é composta por especialistas que passam por treinamento contínuo e rigoroso para garantir que estejamos sempre preparados para os desafios que enfrentamos.</p>
+          <a class="cta-btn" href="#">Contactar</a>
         </div>
 
       </div>
@@ -587,7 +587,7 @@
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2869.0933429085603!2d34.85588844607966!3d-19.834382173415072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1f2a6a82fd78c331%3A0x44a7c437d8c7cc13!2sMatacuane%2C%20Beira%2C%20Mo%C3%A7ambique!5e0!3m2!1spt-PT!2sde!4v1693950101381!5m2!1spt-PT!2sde" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
         <div class="row mt-5">
