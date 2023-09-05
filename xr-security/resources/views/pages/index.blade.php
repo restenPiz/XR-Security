@@ -306,6 +306,11 @@
 
         <section>
             <div class="container">
+                <div class="text-center">
+                    <div class="section-title">
+                        <p>Perguntas frequentes</p>
+                    </div>
+                </div>
                 <div class="accordion accordion-flush" id="accordionFlushExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
