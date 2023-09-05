@@ -46,23 +46,6 @@
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -71,7 +54,7 @@
       <a href="#about" class="get-started-btn scrollto">Get Started</a>
 
     </div>
-  </header><!-- End Header -->
+  </header><!-- End Header -->  
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center justify-content-center">
@@ -88,31 +71,31 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-store-line"></i>
-            <h3><a href="">Lorem Ipsum</a></h3>
+            <h3><a href="">Segurança Patrimonial</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-bar-chart-box-line"></i>
-            <h3><a href="">Dolor Sitema</a></h3>
+            <h3><a href="">Escolta de Pessoas e Bens</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-calendar-todo-line"></i>
-            <h3><a href="">Sedare Perspiciatis</a></h3>
+            <h3><a href="">Segurança de Eventos</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-paint-brush-line"></i>
-            <h3><a href="">Magni Dolores</a></h3>
+            <h3><a href="">Segurança Comunitária</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-database-2-line"></i>
-            <h3><a href="">Nemos Enimade</a></h3>
+            <h3><a href="">Consultoria em Segurança</a></h3>
           </div>
         </div>
       </div>
