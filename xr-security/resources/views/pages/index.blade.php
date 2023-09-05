@@ -249,7 +249,7 @@
                     <div class="col">
                         <div class="card mb-4 shadow-sm" style="border-radius:0;height:40rem;">
                             <div class="card-header py-3" style="border-radius:0;">
-                                <h4 class="my-0 fw-normal">Free</h4>
+                                <h4 class="my-0 fw-normal">Escolta de Pessoas e Bens</h4>
                             </div>
                             <div class="card-body">
                                 <h1 class="card-title pricing-card-title">$0<small
@@ -260,33 +260,14 @@
                                     <li>Email support</li>
                                     <li>Help center access</li>
                                 </ul>
-                                <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for
-                                    free</button>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card mb-4 shadow-sm" style="border-radius:0;height:40rem;">
-                            <div class="card-header py-3" style="border-radius:0;">
-                                <h4 class="my-0 fw-normal">Pro</h4>
-                            </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title">$15<small
-                                        class="text-body-secondary fw-light">/mo</small></h1>
-                                <ul class="list-unstyled mt-3 mb-4">
-                                    <li>20 users included</li>
-                                    <li>10 GB of storage</li>
-                                    <li>Priority email support</li>
-                                    <li>Help center access</li>
-                                </ul>
-                                <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card mb-4 shadow-sm border-primary" style="border-radius:0;height:40rem;">
-                            <div class="card-header py-3 text-bg-primary border-primary" style="border-radius:0;">
-                                <h4 class="my-0 fw-normal">Enterprise</h4>
+                        <div class="card mb-4 shadow-sm" style="border-radius:0;height:40rem; border-color: #ffc451">
+                            <div class="card-header py-3" style="border-radius:0; background-color: #ffc451; border-color: #ffc451">
+                                <h4 class="my-0 fw-normal">Patrimonial</h4>
                             </div>
                             <div class="card-body">
                                 <h1 class="card-title pricing-card-title">$29<small
@@ -297,7 +278,25 @@
                                     <li>Phone and email support</li>
                                     <li>Help center access</li>
                                 </ul>
-                                <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card mb-4 shadow-sm" style="border-radius:0;height:40rem;">
+                            <div class="card-header py-3" style="border-radius:0;">
+                                <h4 class="my-0 fw-normal">Eventos</h4>
+                            </div>
+                            <div class="card-body">
+                                <h1 class="card-title pricing-card-title">$15<small
+                                        class="text-body-secondary fw-light">/mo</small></h1>
+                                <ul class="list-unstyled mt-3 mb-4">
+                                    <li>20 users included</li>
+                                    <li>10 GB of storage</li>
+                                    <li>Priority email support</li>
+                                    <li>Help center access</li>
+                                </ul>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
                         </div>
                     </div>
