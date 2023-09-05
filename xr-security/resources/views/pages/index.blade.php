@@ -249,14 +249,13 @@
                     <div class="col">
                         <div class="card mb-4 shadow-sm" style="border-radius:4rem;height:35rem;">
                             <div class="card-body" style="margin-top:5rem">
-                                <h4 class="card-title pricing-card-title">Escolta de Pessoas e Bens</h4></br>
-                                <h1 class="card-title pricing-card-title">100.000MT<small
+                                <h4 class="card-title pricing-card-title">Segurança Patrimonial</h4></br>
+                                <h1 class="card-title pricing-card-title">35.000MT<small
                                         class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>20 users included</li>
-                                    <li>10 GB of storage</li>
-                                    <li>Priority email support</li>
-                                    <li>Help center access</li>
+                                    <li>Proteção Contínua</li>
+                                    <li>Prevenção de Crimes</li>
+                                    <li>Resposta Rápida a Emergências</li>
                                 </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
@@ -265,14 +264,13 @@
                     <div class="col">
                         <div class="card mb-4 shadow-sm" style="border-radius:4rem;height:35rem; border-color: #ffc451">
                             <div class="card-body" style="margin-top:5rem">
-                                <h4 class="card-title pricing-card-title">Segurança Patrimonial</h4></br>
-                                <h1 class="card-title pricing-card-title">35.000MT<small
+                                <h4 class="card-title pricing-card-title">Escolta de Pessoas e Bens</h4></br>
+                                <h1 class="card-title pricing-card-title">100.000MT<small
                                         class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>20 users included</li>
-                                    <li>10 GB of storage</li>
-                                    <li>Priority email support</li>
-                                    <li>Help center access</li>
+                                    <li>Segurança Pessoal</li>
+                                    <li>Redução de Riscos</li>
+                                    <li>Profissionais Altamente Treinados</li>
                                 </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
@@ -285,10 +283,9 @@
                                 <h1 class="card-title pricing-card-title">50.000MT<small
                                         class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>20 users included</li>
-                                    <li>10 GB of storage</li>
-                                    <li>Priority email support</li>
-                                    <li>Help center access</li>
+                                    <li>Ambiente Seguro para o Evento</li>
+                                    <li>Gestão de Multidões</li>
+                                    <li>Resposta a Emergências</li>
                                 </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
