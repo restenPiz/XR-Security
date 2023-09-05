@@ -247,55 +247,49 @@
                 </div>
                 <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
                     <div class="col">
-                        <div class="card mb-4 shadow-sm" style="border-radius:0;height:40rem;">
-                            <div class="card-header py-3" style="border-radius:0;">
-                                <h4 class="my-0 fw-normal">Escolta de Pessoas e Bens</h4>
-                            </div>
+                        <div class="card mb-4 shadow-sm" style="border-radius:4rem;height:35rem;">
                             <div class="card-body" style="margin-top:5rem">
-                                <h1 class="card-title pricing-card-title">$15<small
-                                        class="text-body-secondary fw-light">/mo</small></h1></br>
+                                <h4 class="card-title pricing-card-title">Escolta de Pessoas e Bens</h4></br>
+                                <h1 class="card-title pricing-card-title">100.000MT<small
+                                        class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
                                     <li>20 users included</li>
                                     <li>10 GB of storage</li>
                                     <li>Priority email support</li>
                                     <li>Help center access</li>
-                                </ul>
+                                </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card mb-4 shadow-sm" style="border-radius:0;height:40rem; border-color: #ffc451">
-                            <div class="card-header py-3" style="border-radius:0; background-color: #ffc451; border-color: #ffc451">
-                                <h4 class="my-0 fw-normal">Patrimonial</h4>
-                            </div>
+                        <div class="card mb-4 shadow-sm" style="border-radius:4rem;height:35rem; border-color: #ffc451">
                             <div class="card-body" style="margin-top:5rem">
-                                <h1 class="card-title pricing-card-title">$15<small
-                                        class="text-body-secondary fw-light">/mo</small></h1></br>
+                                <h4 class="card-title pricing-card-title">Segurança Patrimonial</h4></br>
+                                <h1 class="card-title pricing-card-title">35.000MT<small
+                                        class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
                                     <li>20 users included</li>
                                     <li>10 GB of storage</li>
                                     <li>Priority email support</li>
                                     <li>Help center access</li>
-                                </ul>
+                                </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card mb-4 shadow-sm" style="border-radius:0;height:40rem;">
-                            <div class="card-header py-3" style="border-radius:0;">
-                                <h4 class="my-0 fw-normal">Eventos</h4>
-                            </div>
+                        <div class="card mb-4 shadow-sm" style="border-radius:4rem;height:35rem;">
                             <div class="card-body" style="margin-top:5rem">
-                                <h1 class="card-title pricing-card-title">$15<small
-                                        class="text-body-secondary fw-light">/mo</small></h1></br>
+                                <h4 class="card-title pricing-card-title">Segurança de Eventos</h4></br>
+                                <h1 class="card-title pricing-card-title">50.000MT<small
+                                        class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
                                     <li>20 users included</li>
                                     <li>10 GB of storage</li>
                                     <li>Priority email support</li>
                                     <li>Help center access</li>
-                                </ul>
+                                </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
                         </div>
