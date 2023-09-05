@@ -253,9 +253,9 @@
                                 <h1 class="card-title pricing-card-title">35.000MT<small
                                         class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Proteção Contínua</li>
-                                    <li>Prevenção de Crimes</li>
-                                    <li>Resposta Rápida a Emergências</li>
+                                    <li><i class="ri-check-double-line"></i> Proteção Contínua</li>
+                                    <li><i class="ri-check-double-line"></i>Prevenção de Crimes</li>
+                                    <li><i class="ri-check-double-line"></i>Resposta Rápida a Emergências</li>
                                 </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
@@ -268,9 +268,9 @@
                                 <h1 class="card-title pricing-card-title">100.000MT<small
                                         class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Segurança Pessoal</li>
-                                    <li>Redução de Riscos</li>
-                                    <li>Profissionais Altamente Treinados</li>
+                                    <li><i class="ri-check-double-line"></i>Segurança Pessoal</li>
+                                    <li><i class="ri-check-double-line"></i>Redução de Riscos</li>
+                                    <li><i class="ri-check-double-line"></i>Profissionais Altamente Treinados</li>
                                 </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
@@ -283,9 +283,9 @@
                                 <h1 class="card-title pricing-card-title">50.000MT<small
                                         class="text-body-secondary fw-light">/mês</small></h1></br>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Ambiente Seguro para o Evento</li>
-                                    <li>Gestão de Multidões</li>
-                                    <li>Resposta a Emergências</li>
+                                    <li><i class="ri-check-double-line"></i>Ambiente Seguro para o Evento</li>
+                                    <li><i class="ri-check-double-line"></i>Gestão de Multidões</li>
+                                    <li><i class="ri-check-double-line"></i>Resposta a Emergências</li>
                                 </ul></br>
                                 <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de Pagamento</a>
                             </div>
