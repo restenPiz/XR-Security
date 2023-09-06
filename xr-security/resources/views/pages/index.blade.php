@@ -37,7 +37,7 @@
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center justify-content-lg-between">
 
-            <h1 class="logo me-auto me-lg-0"><a href="index.html">XR<span>.</span></a></h1>
+            <h1 class="logo me-auto me-lg-0"><a href="index.html">XR<span></span></a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -46,14 +46,13 @@
                     <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
                     <li><a class="nav-link scrollto" href="#about">Sobre</a></li>
                     <li><a class="nav-link scrollto" href="#services">Serviços</a></li>
-                    <li><a class="nav-link scrollto " href="#portfolio">Galeria</a></li>
-                    <li><a class="nav-link scrollto" href="#team">Equipe</a></li>
+                    <li><a class="nav-link scrollto " href="#counts">Plano de Pagamento</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Contacto</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
 
-            <a href="#about" class="get-started-btn scrollto">Plano de Pagamento</a>
+            <a href="#about" class="get-started-btn scrollto">Vamos Iniciar</a>
 
         </div>
     </header><!-- End Header -->
@@ -272,7 +271,7 @@
                 </div>
 
             </div>
-        </section><!-- End Cta Section -->
+        </section></br></br><!-- End Cta Section -->
 
         {{-- Inicio da section de precos --}}
 
