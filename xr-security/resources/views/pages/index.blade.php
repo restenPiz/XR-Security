@@ -488,22 +488,22 @@
                     <div class="col-lg-2 col-md-6 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Inicio</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Sobre</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Serviços</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Plano</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Contacto</a></li>
                         </ul>
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Segurança Patrimonial</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Serviço de Escolta de Pessoas e Bens</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Serviço de Segurança de Eventos</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Consultoria em Segurança</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Segurança Comunitária</a></li>
                         </ul>
                     </div>
 
