@@ -180,7 +180,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 align-items-stretch" data-aos="zoom-in"
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in"
                         data-aos-delay="100" style="border:0;border-color:white">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
@@ -388,8 +388,8 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Contact</h2>
-                    <p>Contact Us</p>
+                    <h2>Contacto</h2>
+                    <p>Contacte-nos</p>
                 </div>
 
                 <div>
@@ -405,20 +405,20 @@
                         <div class="info">
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
-                                <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <h4>Localização:</h4>
+                                <p>Matacuane, Beira</p>
                             </div>
 
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>info@example.com</p>
+                                <p>Xrmozambique@gmail.com</p>
                             </div>
 
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
-                                <h4>Call:</h4>
-                                <p>+1 5589 55488 55s</p>
+                                <h4>Numero de telefone:</h4>
+                                <p>+258 850660666</p>
                             </div>
 
                         </div>
