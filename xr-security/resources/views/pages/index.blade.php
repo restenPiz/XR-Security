@@ -181,23 +181,23 @@
                     <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
                             <i class="bx bx-receipt"></i>
-                            <h4>Est labore ad</h4>
-                            <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                            <h4>Resposta Rápida a Emergências</h4>
+                            <p>Em situações de emergência, cada segundo conta. A XR Segurança garante uma resposta rápida e eficaz a qualquer incidente de segurança.</p>
                         </div>
-                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                            <i class="bx bx-cube-alt"></i>
-                            <h4>Harum esse qui</h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                        <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-receipt"></i>
+                            <h4>Construção de Comunidades Seguras</h4>
+                            <p>Além de proteger propriedades individuais, a XR Segurança contribui para a construção de comunidades mais seguras. </p>
                         </div>
-                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                            <i class="bx bx-images"></i>
-                            <h4>Aut occaecati</h4>
-                            <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                        <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-receipt"></i>
+                            <h4>Experiência Profissional</h4>
+                            <p>Contamos com uma equipe experiente e altamente treinada em segurança. Nossos profissionais têm anos de experiência no setor e estão comprometidos com os mais altos padrões de ética e profissionalismo. </p>
                         </div>
-                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                            <i class="bx bx-shield"></i>
-                            <h4>Beatae veritatis</h4>
-                            <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                        <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-receipt"></i>
+                            <h4>Prevenção de Crimes</h4>
+                            <p>Nossa presença e vigilância ativa ajudam a dissuadir criminosos e reduzir significativamente o risco de invasões, roubos e outros crimes. </p>
                         </div>
                     </div>
                 </div>
