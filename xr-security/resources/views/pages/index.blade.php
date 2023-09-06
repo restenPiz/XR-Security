@@ -522,10 +522,10 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>Gp</span></strong>. Todos direitos reservados
+                &copy; Copyright <strong><span>XR</span></strong>. Todos direitos reservados
             </div>
             <div class="credits">
-                Desenvolvido pela <a href="">Emilio prestação de multisserviços</a>
+                Desenvolvido pela <a href="">Emilio Prestação de Multisserviços</a>
             </div>
         </div>
     </footer><!-- End Footer -->
