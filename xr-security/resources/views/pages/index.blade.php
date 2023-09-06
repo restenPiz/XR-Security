@@ -520,7 +520,7 @@
 
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-info">
-                            <h3>XR<span>.</span></h3>
+                            <h3><img style="widows: 10rem;height:5rem" src="./assets/img/XR-logo.png"><span></span></h3>
                             <p>
                                 Matacuane <br>
                                 Beira, Moçambique<br><br>
