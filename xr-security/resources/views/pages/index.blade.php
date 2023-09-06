@@ -180,8 +180,8 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in"
-                        data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 align-items-stretch" data-aos="zoom-in"
+                        data-aos-delay="100" style="border:0;border-color:white">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h4><a href="">Segurança Patrimonial:</a></h4>
@@ -194,7 +194,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
-                        data-aos-delay="200">
+                        data-aos-delay="200" style="border:0">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-file"></i></div>
                             <h4><a href="">Escolta de Pessoas e Bens</a></h4>
@@ -206,7 +206,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
-                        data-aos-delay="300">
+                        data-aos-delay="300" style="border:0">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
                             <h4><a href="">Segurança de Eventos</a></h4>
@@ -306,57 +306,74 @@
 
         <section>
             <div class="container">
-                <div class="text-center">
-                    <div class="section-title">
-                        <p>Perguntas frequentes</p>
-                    </div>
-                </div>
+                <div class="text-center content">
+                    <h5>F.A.Q</h5>
+                    <h3>Perguntas frequentes</h3>
+                </div></br>
                 <div class="accordion accordion-flush" id="accordionFlushExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#flush-collapseOne" aria-expanded="false"
                                 aria-controls="flush-collapseOne">
-                                Accordion Item #1
+                                Como posso solicitar uma avaliação de segurança para minha propriedade?
                             </button>
                         </h2>
                         <div id="flush-collapseOne" class="accordion-collapse collapse"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Placeholder content for this accordion, which is intended to
-                                demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion
-                                body.</div>
+                            <div class="accordion-body">Para solicitar uma avaliação de segurança personalizada para sua propriedade, entre em contato conosco por telefone ou preencha o formulário de contato em nosso site. Um de nossos especialistas em segurança entrará em contato com você para agendar uma avaliação gratuita e discutir suas necessidades específicas.</div>
                         </div>
-                    </div>
+                    </div></br>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#flush-collapseTwo" aria-expanded="false"
                                 aria-controls="flush-collapseTwo">
-                                Accordion Item #2
+                                Qual é a qualificação da equipe de segurança da XR Segurança?
                             </button>
                         </h2>
                         <div id="flush-collapseTwo" class="accordion-collapse collapse"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Placeholder content for this accordion, which is intended to
-                                demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion
-                                body. Let's imagine this being filled with some actual content.</div>
+                            <div class="accordion-body">Nossa equipe de segurança é composta por profissionais altamente treinados, muitos dos quais têm formação em segurança e anos de experiência no setor. Além disso, eles passam por treinamento contínuo para garantir que estejam atualizados com as melhores práticas de segurança.</div>
                         </div>
-                    </div>
+                    </div></br>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#flush-collapseThree" aria-expanded="false"
                                 aria-controls="flush-collapseThree">
-                                Accordion Item #3
+                                Quais são os procedimentos em caso de emergência?
                             </button>
                         </h2>
                         <div id="flush-collapseThree" class="accordion-collapse collapse"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Placeholder content for this accordion, which is intended to
-                                demonstrate the <code>.accordion-flush</code> class. This is the third item's accordion
-                                body. Nothing more exciting happening here in terms of content, but just filling up the
-                                space to make it look, at least at first glance, a bit more representative of how this would
-                                look in a real-world application.</div>
+                            <div class="accordion-body">Em caso de emergência, você pode entrar em contato com nossa central de atendimento de emergência pelo número [inserir número de emergência]. Nossa equipe de segurança responderá imediatamente e tomará as medidas necessárias para resolver a situação. Também forneceremos orientações específicas sobre como agir em situações de emergência, conforme apropriado.</div>
+                        </div>
+                    </div></br>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseThreee" aria-expanded="false"
+                                aria-controls="flush-collapseThree">
+                                Quais são os serviços de segurança comunitária oferecidos pela XR Segurança?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseThreee" class="accordion-collapse collapse"
+                            data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">Oferecemos uma variedade de serviços de segurança comunitária, incluindo patrulhamento de bairros, vigilância de áreas públicas, participação em programas locais de prevenção de crimes e apoio a iniciativas de segurança da comunidade. Nossa presença ajuda a criar um ambiente mais seguro para todos os moradores.</div>
+                        </div>
+                    </div></br>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseThreeee" aria-expanded="false"
+                                aria-controls="flush-collapseThreee">
+                                Quais medidas de segurança adicionais a XR Segurança utiliza para proteger minha privacidade e informações pessoais?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseThreeee" class="accordion-collapse collapse"
+                            data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">A privacidade e a confidencialidade de nossos clientes são de extrema importância. Utilizamos práticas rigorosas de proteção de dados e conformidade com regulamentos de privacidade. Todas as informações pessoais e dados confidenciais são armazenados e tratados com segurança. Além disso, nossos funcionários passam por treinamento específico para garantir a proteção de informações sensíveis. Estamos comprometidos em proteger sua privacidade em todos os aspectos de nossos serviços.</div>
                         </div>
                     </div>
                 </div>
