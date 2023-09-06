@@ -172,12 +172,11 @@
 
         {{-- Inicio da outra seccao da parte de about --}}
 
-        <!-- ======= Features Section ======= -->
         <section id="features" class="features">
             <div class="container" data-aos="fade-up">
 
                 <div class="row">
-                    <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");'
+                    <div class="image col-lg-6" style='background-image: url("assets/img/x7.jpg");'
                         data-aos="fade-right"></div>
                     <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
@@ -204,7 +203,7 @@
                 </div>
 
             </div>
-        </section><!-- End Features Section -->
+        </section>
 
         {{-- Fim da outra parte da seccao de about --}}
 
