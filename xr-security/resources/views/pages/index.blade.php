@@ -10,7 +10,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
+    <link href="./assets/img/XR-logo.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -38,9 +38,7 @@
         <div class="container d-flex align-items-center justify-content-lg-between">
 
             <h1 class="logo me-auto me-lg-0"><a href="index.html"><img src="./assets/img/XR-logo.png"><span></span></a></h1>
-            <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
+        
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
@@ -64,7 +62,6 @@
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
                     <h1>Sua segurança é a nossa prioridade<span>.</span></h1>
-                    {{-- <h2>Na XR Segurança, dedicamos nosso trabalho a garantir que você e sua família vivam com tranquilidade.</h2> --}}
                 </div>
             </div>
 
@@ -267,7 +264,7 @@
                     <h3>Contacte-nos</h3>
                     <p> Nossa equipe é composta por especialistas que passam por treinamento contínuo e rigoroso para
                         garantir que estejamos sempre preparados para os desafios que enfrentamos.</p>
-                    <a class="cta-btn" href="#">Contactar</a>
+                    <a class="cta-btn" href="#contact">Contactar</a>
                 </div>
 
             </div>
