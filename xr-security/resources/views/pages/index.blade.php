@@ -170,6 +170,44 @@
             </div>
         </section><!-- End Clients Section -->
 
+        {{-- Inicio da outra seccao da parte de about --}}
+
+        <!-- ======= Features Section ======= -->
+        <section id="features" class="features">
+            <div class="container" data-aos="fade-up">
+
+                <div class="row">
+                    <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");'
+                        data-aos="fade-right"></div>
+                    <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+                        <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-receipt"></i>
+                            <h4>Est labore ad</h4>
+                            <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                        </div>
+                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-cube-alt"></i>
+                            <h4>Harum esse qui</h4>
+                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                        </div>
+                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-images"></i>
+                            <h4>Aut occaecati</h4>
+                            <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                        </div>
+                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-shield"></i>
+                            <h4>Beatae veritatis</h4>
+                            <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End Features Section -->
+
+        {{-- Fim da outra parte da seccao de about --}}
+
         <!-- ======= Services Section ======= -->
         <section id="services" class="services">
             <div class="container" data-aos="fade-up">
@@ -180,8 +218,8 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in"
-                        data-aos-delay="100" style="border:0;border-color:white">
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100"
+                        style="border:0;border-color:white">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h4><a href="">Segurança Patrimonial:</a></h4>
@@ -321,7 +359,10 @@
                         </h2>
                         <div id="flush-collapseOne" class="accordion-collapse collapse"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Para solicitar uma avaliação de segurança personalizada para sua propriedade, entre em contato conosco por telefone ou preencha o formulário de contato em nosso site. Um de nossos especialistas em segurança entrará em contato com você para agendar uma avaliação gratuita e discutir suas necessidades específicas.</div>
+                            <div class="accordion-body">Para solicitar uma avaliação de segurança personalizada para
+                                sua propriedade, entre em contato conosco por telefone ou preencha o formulário de
+                                contato em nosso site. Um de nossos especialistas em segurança entrará em contato com
+                                você para agendar uma avaliação gratuita e discutir suas necessidades específicas.</div>
                         </div>
                     </div></br>
                     <div class="accordion-item">
@@ -334,7 +375,10 @@
                         </h2>
                         <div id="flush-collapseTwo" class="accordion-collapse collapse"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Nossa equipe de segurança é composta por profissionais altamente treinados, muitos dos quais têm formação em segurança e anos de experiência no setor. Além disso, eles passam por treinamento contínuo para garantir que estejam atualizados com as melhores práticas de segurança.</div>
+                            <div class="accordion-body">Nossa equipe de segurança é composta por profissionais
+                                altamente treinados, muitos dos quais têm formação em segurança e anos de experiência no
+                                setor. Além disso, eles passam por treinamento contínuo para garantir que estejam
+                                atualizados com as melhores práticas de segurança.</div>
                         </div>
                     </div></br>
                     <div class="accordion-item">
@@ -347,7 +391,11 @@
                         </h2>
                         <div id="flush-collapseThree" class="accordion-collapse collapse"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Em caso de emergência, você pode entrar em contato com nossa central de atendimento de emergência pelo número [inserir número de emergência]. Nossa equipe de segurança responderá imediatamente e tomará as medidas necessárias para resolver a situação. Também forneceremos orientações específicas sobre como agir em situações de emergência, conforme apropriado.</div>
+                            <div class="accordion-body">Em caso de emergência, você pode entrar em contato com nossa
+                                central de atendimento de emergência pelo número [inserir número de emergência]. Nossa
+                                equipe de segurança responderá imediatamente e tomará as medidas necessárias para
+                                resolver a situação. Também forneceremos orientações específicas sobre como agir em
+                                situações de emergência, conforme apropriado.</div>
                         </div>
                     </div></br>
                     <div class="accordion-item">
@@ -360,7 +408,11 @@
                         </h2>
                         <div id="flush-collapseThreee" class="accordion-collapse collapse"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Oferecemos uma variedade de serviços de segurança comunitária, incluindo patrulhamento de bairros, vigilância de áreas públicas, participação em programas locais de prevenção de crimes e apoio a iniciativas de segurança da comunidade. Nossa presença ajuda a criar um ambiente mais seguro para todos os moradores.</div>
+                            <div class="accordion-body">Oferecemos uma variedade de serviços de segurança comunitária,
+                                incluindo patrulhamento de bairros, vigilância de áreas públicas, participação em
+                                programas locais de prevenção de crimes e apoio a iniciativas de segurança da
+                                comunidade. Nossa presença ajuda a criar um ambiente mais seguro para todos os
+                                moradores.</div>
                         </div>
                     </div></br>
                     <div class="accordion-item">
@@ -368,12 +420,18 @@
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#flush-collapseThreeee" aria-expanded="false"
                                 aria-controls="flush-collapseThreee">
-                                Quais medidas de segurança adicionais a XR Segurança utiliza para proteger minha privacidade e informações pessoais?
+                                Quais medidas de segurança adicionais a XR Segurança utiliza para proteger minha
+                                privacidade e informações pessoais?
                             </button>
                         </h2>
                         <div id="flush-collapseThreeee" class="accordion-collapse collapse"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">A privacidade e a confidencialidade de nossos clientes são de extrema importância. Utilizamos práticas rigorosas de proteção de dados e conformidade com regulamentos de privacidade. Todas as informações pessoais e dados confidenciais são armazenados e tratados com segurança. Além disso, nossos funcionários passam por treinamento específico para garantir a proteção de informações sensíveis. Estamos comprometidos em proteger sua privacidade em todos os aspectos de nossos serviços.</div>
+                            <div class="accordion-body">A privacidade e a confidencialidade de nossos clientes são de
+                                extrema importância. Utilizamos práticas rigorosas de proteção de dados e conformidade
+                                com regulamentos de privacidade. Todas as informações pessoais e dados confidenciais são
+                                armazenados e tratados com segurança. Além disso, nossos funcionários passam por
+                                treinamento específico para garantir a proteção de informações sensíveis. Estamos
+                                comprometidos em proteger sua privacidade em todos os aspectos de nossos serviços.</div>
                         </div>
                     </div>
                 </div>
@@ -500,9 +558,12 @@
                         <h4>Nossos Serviços</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Segurança Patrimonial</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Serviço de Escolta de Pessoas e Bens</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Serviço de Segurança de Eventos</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Consultoria em Segurança</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Serviço de Escolta de Pessoas e
+                                    Bens</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Serviço de Segurança de
+                                    Eventos</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Consultoria em Segurança</a>
+                            </li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Segurança Comunitária</a></li>
                         </ul>
                     </div>
