@@ -290,8 +290,7 @@
                                     <li><i class="ri-check-double-line"></i>Prevenção de Crimes</li>
                                     <li><i class="ri-check-double-line"></i>Resposta Rápida a Emergências</li>
                                 </ul></br>
-                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de
-                                    Pagamento</a>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Comece agora</a>
                             </div>
                         </div>
                     </div>
@@ -307,8 +306,7 @@
                                     <li><i class="ri-check-double-line"></i>Redução de Riscos</li>
                                     <li><i class="ri-check-double-line"></i>Profissionais Altamente Treinados</li>
                                 </ul></br>
-                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de
-                                    Pagamento</a>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Comece agora</a>
                             </div>
                         </div>
                     </div>
@@ -323,8 +321,7 @@
                                     <li><i class="ri-check-double-line"></i>Gestão de Multidões</li>
                                     <li><i class="ri-check-double-line"></i>Resposta a Emergências</li>
                                 </ul></br>
-                                <a href="#about" class="get-started-btn scrollto" style="color:black">Plano de
-                                    Pagamento</a>
+                                <a href="#about" class="get-started-btn scrollto" style="color:black">Comece agora</a>
                             </div>
                         </div>
                     </div>
