@@ -39,6 +39,7 @@
 
             <h1 class="logo me-auto me-lg-0"><a href="index.html"><img src="./assets/img/XR-logo.png"><span></span></a></h1>
         
+            {{--Inicio do navbar da minha website--}}
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
